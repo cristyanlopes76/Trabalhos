@@ -1,0 +1,3 @@
+Acesso ao banco de dados => Postgres 
+Usuario: postgres
+Senha: postgres
